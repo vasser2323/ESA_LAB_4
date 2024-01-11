@@ -43,13 +43,13 @@ MDB принимает сообщения, проверяет их структ�
 
 POST - запрос: 
 
-![image](https://github.com/vasser2323/ESA_LAB_4/assets/73202398/e6973379-d680-499f-8a8d-5286e59f3ec4)
+![1](https://github.com/vasser2323/ESA_LAB_4/assets/73202398/dcf56181-7bb5-48e8-97e0-47945eca1916)
 
 Полученные уведомления:
 
 CREATE_CARD:
 
-![image](https://github.com/vasser2323/ESA_LAB_4/assets/73202398/3ca143ae-4142-45de-9738-08ea0cf4ebef)
+![image](https://github.com/vasser2323/ESA_LAB_4/assets/73202398/e6973379-d680-499f-8a8d-5286e59f3ec4)
 
 DELETE_CARD:
 
